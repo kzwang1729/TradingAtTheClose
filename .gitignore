@@ -1,0 +1,27 @@
+# Dot-prefixed files and directories
+.*
+
+# Keep git tracking itself
+!.gitignore
+!.gitattributes
+
+# Python Object Files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/
+example_test_files/
+
+# OS
+Thumbs.db
