@@ -23,5 +23,8 @@ build/
 data/
 example_test_files/
 
+# SDS 4250
+sds4250/
+
 # OS
 Thumbs.db
