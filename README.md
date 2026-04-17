@@ -15,8 +15,9 @@ This repository is centered on exploratory analysis in `eda.ipynb`, with a conda
 |   |-- train.csv
 |   `-- test.csv
 `-- example_test_files/
-    |-- sample_submission.csv
-    `-- revealed_targets.csv
+|   |-- sample_submission.csv
+|   `-- revealed_targets.csv
+`-- images
 ```
 
 ## Environment Setup
